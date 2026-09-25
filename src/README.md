@@ -25,3 +25,11 @@ Programmet gør primært brug af:
 - For-loops – til at gennemgå arrays og holde styr på login-forsøg.
 - If-statements – til at kontrollere, om brugernavn og adgangskode er korrekte.
 - Scanner – til at modtage brugerens input.
+
+Udfordringer:
+en af udfordringerne vi havde var at navngive vores metoder og variabler passende, vi løb ind i flere gange at det var svært ved at finde et passende navn der både var kort, gav mening og beskrev godt nok.
+
+Gruppemedlemmer:
+- Niklas
+- Mark
+- Sarah
